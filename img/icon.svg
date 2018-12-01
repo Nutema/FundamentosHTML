@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_6" spreadMethod="reflect" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0.553406" stop-color="#cccccc"/>
+   <stop offset="1" stop-color="#333333"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="url(#svg_6)" fill-opacity="0.85" height="56.999999" id="svg_1" stroke="#7f3f00" width="177.000003" x="34.500003" y="51.5"/>
+  <text fill="#00007f" font-family="Cursive" font-size="22" id="svg_2" stroke="#7f3f00" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.91748 0 0 1.9238 -862.394 -203.44)" x="338.022805" xml:space="preserve" y="155.103571">NTM</text>
+ </g>
+</svg>
